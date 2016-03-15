@@ -1,0 +1,17 @@
+{
+  "name": "wishare-command-init",
+  "version": "0.0.0",
+  "description": "Command init for wishare-http://www.winxuan.com",
+  "main": "index.js",
+  "repository": "werts/wishare-postprocessor-cmd-wrapper",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "werts",
+  "license": "ISC",
+  "keywords": [
+    "fis3",
+    "wishare",
+    "command-init"
+  ]
+}
