@@ -1,7 +1,7 @@
 {
   "name": "wishare-command-init",
   "version": "0.0.0",
-  "description": "Command init for wishare-http://www.winxuan.com",
+  "description": "CLI init tool for wishare-http://www.winxuan.com",
   "main": "index.js",
   "repository": "werts/wishare-postprocessor-cmd-wrapper",
   "scripts": {
